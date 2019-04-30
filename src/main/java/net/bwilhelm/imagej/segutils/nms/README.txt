@@ -1,0 +1,1 @@
+The NMS in this folder should be converted to an imagej-op and be contributed to imagej-ops.
